@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hoy Llego</title>
+	<link rel="stylesheet" type="text/css" href="princ.css">
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+<body>
+	<div id="error">Error al recibir datos.</div>
+	<header>
+		<div id="logocont">
+			<div class="logo"><img src="imgs/logo.png"></div>
+			<div class="logo" onclick="volver()" title="Volver"><img src="imgs/flecha.png"></div>
+		</div>
+		<div id="marca">Hoy Llego</div>
+		<div id="pregunta" class="show"><span id="autorespuesta">No se</span></div>
+		<div id="hora" onclick="horaswitch()">--:--</div>
+	</header>
+
+	<div id="actualizando" class=" ">
+		<div>Actualizando</div>
+		<img src="imgs/update.gif">
+	</div>
+
+	<div id="cargando" class="">
+		<div>Cargando</div>
+		<img src="imgs/update.gif">
+	</div>
+
+	<div id="tw-mini" class="twitter">[twitter]</div>
+
+	<div id="container">
+		<div id="pag1cont">
+
+		</div>
+		<div id="pag2cont">
+		</div>
+	</div>
+	<script type="text/javascript">
+		function move() {
+			document.getElementById("container").className = 'move';
+			document.getElementById("cargando").className -= 'show';
+			document.getElementById("logocont").className = 'atras';
+		}
+		function volver() {
+			document.getElementById("pag2cont").innerHTML= "";
+			document.getElementById("container").className -= 'move';
+			document.getElementById("logocont").className -= 'atras';
+		}
+		</script>
+		<script type="text/javascript" src="scripts/hora.js"></script>
+		<script type="text/javascript" src="scripts/page1.js"></script>
+		<script type="text/javascript" src="scripts/page2.js"></script>
+		<script type="text/javascript" src="scripts/princ.js"></script>
+</body>

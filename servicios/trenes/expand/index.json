@@ -1,0 +1,10 @@
+[
+	{"nombre": "san_martin", "dispNombre" : "San Martín"},
+	{"nombre": "roca", "dispNombre" : "Roca"},
+	{"nombre": "belgrano_s", "dispNombre" : "Belgrano Sur"},
+	{"nombre": "belgrano_n", "dispNombre" : "Belgrano Norte"},
+	{"nombre": "mitre", "dispNombre" : "Mitre"},
+	{"nombre": "sarmiento", "dispNombre" : "Sarmiento"},
+	{"nombre": "mapa", "dispNombre" : "Mapa de Líneas"}
+
+]

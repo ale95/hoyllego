@@ -1,0 +1,5 @@
+[
+	{"nombre": "detalles", "dispNombre" : "Detalles"},
+	{"nombre": "mapa", "dispNombre" : "Mapa de Lineas", "noUpdate": "1"},
+	{"nombre": "enelsubte", "dispNombre" : "enelSubte.com", "noUpdate": "1"}
+]

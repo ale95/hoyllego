@@ -1,0 +1,46 @@
+{
+	"autorespuesta" : "Está medio complicado hoy",
+	"tiempo" : {
+		"color" : "#eef",
+		"icono" : "imgs/tiempo/dia/despejado.png",
+		"temperatura" : 30,
+		"estado" : "Soleado",
+		"maxima" : 23,
+		"minima" : 12
+	},
+	"servicios" : [
+		{
+			"color" : "#ffe",
+			"nombre" : "subtes",
+			"dispNombre" : "Subtes",
+			"datos" : [
+				{ "nombre" : "Línea A", "estado" : 3 ,"color" : "#0ff"},
+				{ "nombre" : "Línea B", "estado" : 2 ,"color" : "#f33"},
+				{ "nombre" : "Línea C", "estado" : 1 ,"color" : "#33f"},
+				{ "nombre" : "Línea D", "estado" : 1 ,"color" : "#0f0"},
+				{ "nombre" : "Línea E", "estado" : 1 ,"color" : "#f3f"},
+				{ "nombre" : "Línea H", "estado" : 1 ,"color" : "#ff0"},
+				{ "nombre" : "Premetro", "estado" : 1 ,"color" : "#f90"}
+			]
+		},
+		{
+			"color" : "#efe",
+			"nombre" : "trenes",
+			"dispNombre" : "Trenes",
+			"datos" : [
+				{ "nombre" : "Roca", "estado" : 1 },
+				{ "nombre" : "Sarmiento", "estado" : 1 },
+				{"nombre" : "Mitre", "estado": 1},
+				{"nombre" : "Belgrano", "estado": 3},
+
+			]
+		}
+	]
+}
+/*
+0 = no disp.
+1 = verde
+2 = amarillo
+3 = rojo
+*/
+

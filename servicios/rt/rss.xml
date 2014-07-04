@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dm="http://www.dailymotion.com/dmrss/"
+	version="2.0">
+	
+	<channel>
+		<title>RT - Noticias internacionales </title>
+		<link>http://actualidad.rt.com</link>
+		<atom:link rel="self" href="http://actualidad.rt.com"/>
+		<description>Acceda a las noticias actualizadas de RT en tiempo real</description>
+		<language>es</language>
+		<copyright>Organizacion Autonoma sin Fines de Lucro "TV-Novosti" 2005-2014. Todos los derechos reservados.</copyright>
+		<lastBuildDate>Fri, 04 Jul 2014 12:48:53 </lastBuildDate>
+		<generator>actualidad.rt.com</generator>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<image>
+			<url>http://actualidad.rt.com/actualidad/design1/i/rt-logo.gif</url>
+			<title>RT - Noticias internacionales</title>
+			<link>http://actualidad.rt.com</link>
+			<description>Acceda a las noticias actualizadas de RT en tiempo real</description>
+		</image>
+			
+			<item>
+				<title>El secreto de la longevidad de una estadounidense de casi 115 años de edad</title>
+						<link><![CDATA[http://actualidad.rt.com/sociedad/view/132963-secreto-longevidad-mujer-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/f46/f46b6e23de0a5d7058a4956b5750fbff_small.jpg" /><br>
+							La receta de la longevidad de la estadounidense Susannah Mushatt Jones, de casi 115 años, es simple: ni tabaco, ni alcohol, aunque la misma mujer dice que no tiene ningún secreto. Además, le encanta el tocino y la goma de mascar, entre otras cosas.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/f46/f46b6e23de0a5d7058a4956b5750fbff_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 04:28:24  GMT</pubDate>
+				<guid>http://actualidad.rt.com/sociedad/view/132963-secreto-longevidad-mujer-eeuu</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Las mejores esculturas contemporáneas de todo el mundo</title>
+						<link><![CDATA[http://actualidad.rt.com/galerias/cultura/view/132843-mejores-esculturas-contemporaneas?utm_source=rss&utm_medium=rss&utm_campaign=galerias]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/d5b/d5b77326a83bed17f1c471cbb3bfd869_small.jpg" /><br>
+							Esta colección de imágenes, recogida por el portal Adme, muestra las mejores obras maestras de la imaginación humana que adornan las calles de ciudades de todo el mundo.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/d5b/d5b77326a83bed17f1c471cbb3bfd869_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 04:00:27  GMT</pubDate>
+				<guid>http://actualidad.rt.com/galerias/cultura/view/132843-mejores-esculturas-contemporaneas</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Un estadounidense gana casi 260 millones de dólares en la lotería</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132967-eeuu-ganar-millones-dolares-loteria?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El residente de la ciudad de Knoxville, en el estado de Tennessee, Roy Cockrum ganó el premio mayor de la lotería popular Powerball, que ascendió a 259,8 millones de dólares. 	
+   	Según los organizadores de la lotería, Cockrum fue para recoger su dinero unas semanas después de conocer que su billete había ganado. El hombre, de 58 años, decidió recoger su premio de una sola vez y recibirá 153 millones de dólares. Si hubiera decidido recogerlo en partes a lo largo de 30 años, podría haber recibido la suma total, es decir, 259,8 millones de dólares.
+ 
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 03:00:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132967-eeuu-ganar-millones-dolares-loteria</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Menos periodistas, más robots: el nuevo lema de la agencia AP</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132953-periodistas-robots-agencia-ap?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/e94/e94b507540378168239742d3b9b9fc2e_small.jpg" /><br>
+							Una de la agencias de noticias más grandes de EE.UU., Associated Press (AP), decidió implementar un reto futurista: sustituir a los periodistas por máquinas. Eso aumentará la eficiencia de la redacción y el número de noticias, asegura AP.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/e94/e94b507540378168239742d3b9b9fc2e_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 02:59:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132953-periodistas-robots-agencia-ap</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Ecuador y Brasil crean un dron para los países de la Unasur</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132935-ecuador-brasil-dron-unasur-drone?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/d4f/d4fefbbd293ce656a5dfeae496c11d40_small.jpg" /><br>
+							Ecuador y Brasil están trabajando para crear un avión no tripulado que sería implementado por los países de la Unión de Naciones Suramericanas (Unasur).
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/d4f/d4fefbbd293ce656a5dfeae496c11d40_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 02:24:14  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132935-ecuador-brasil-dron-unasur-drone</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Un ataque con misiles contra el aeropuerto de Kabul destruye el helicóptero de Karzai</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132964-ataque-aeropuerto-kabul-destruir-helicoptero-karzai?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El ataque con misiles efectuado por los talibanes contra el aeropuerto internacional de Kabul destruyó un helicóptero que estaba a disposición del presidente Hamid Karzai, informa AFP citando al Ministerio de Defensa afgano. 	
+   	Este jueves en el aeropuerto, donde se ubica una base de la OTAN, explotaron tres cohetes y después se inició un incendió. El movimiento Talibán se responsabizó del ataque.
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 01:55:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132964-ataque-aeropuerto-kabul-destruir-helicoptero-karzai</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Ecuador y Brasil crean un dron para los países de la Unasur</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132962-ecuador-brasil-dron-unasur?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/893/893d1d53ddf100f74bd8385da10f7aa2_small.jpg" /><br>
+							Ecuador y Brasil están trabajando para crear un avión no tripulado que sería implementado por los países de la Unión de Naciones Suramericanas (Unasur).
+
+El analista internacional Andrés Sánchez Reinoso considera que América Latina debe avanzar en estas tecnologías para lograr un nivel competitivo a nivel mundial.
+
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/893/893d1d53ddf100f74bd8385da10f7aa2_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 01:49:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132962-ecuador-brasil-dron-unasur</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El millonario que regala dinero con pistas en Twitter lleva su juego a Madrid</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132961-millonario-dinero-twitter-madrid-jason-buzi?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Jason Buzi, el millonario que esconde sobres con dinero y da pistas sobre su ubicación a través de Twitter, trasladó su peculiar obra benéfica a Madrid, donde repartirá 1.300 euros. 	
+   	Buzi, residente de Palo Alto (California), es el autor de la cuenta de Twitter @hiddencash (dinero escondido), que utiliza para regalar dinero en distintos lugares. A través de la red social ha informado de que se han escondido 26 sobres, con 50 euros cada uno, en el Parque del Retiro de Madrid y de que sus próximas paradas serán San Diego y Fresno (EE.UU.).
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 01:44:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132961-millonario-dinero-twitter-madrid-jason-buzi</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Viceministro de Exteriores ruso: &#34;EE.UU. no quiere aceptar la realidad vigente&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132949-rusia-eeuu-faltar-aceptar-realidad?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/aba/aba0c64d423a3a6ddf5ffba02b8391ce_small.jpg" /><br>
+							El viceministro de asuntos exteriores de Rusia, Serguéi Riabkov, comenta que la política de Washington en las relaciones bilaterales carece de la intención de contar con los intereses mutuos y suele imponer su única opinión sobre todos los aspectos.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/aba/aba0c64d423a3a6ddf5ffba02b8391ce_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 01:25:45  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132949-rusia-eeuu-faltar-aceptar-realidad</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El papa Francisco recibirá en el Vaticano a víctimas de curas pederastas</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132958-francisco-recibir-victimas-pedofilos?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El papa Francisco se reunirá en su residencia privada, la Casa Santa Marta, con seis jóvenes de varios países (Reino Unido, Irlanda y Alemania) víctimas de abusos sexuales por parte de religiosos, informa InfoBae. Es la primera vez en la historia de la Santa Sede que un papa hace un gesto así.
+
+ 	Ya en 2013 el pontífice se comprometió a luchar contra la pederastia, con lo que puso en marcha una comisión para la protección de la infancia. Una de las víctimas que será recibida es de Irlanda, lo que sería una manera de comunicar su cercanía a uno de los países más afectados por los sacerdotes pederastas, observa el medio.
+ 
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 01:15:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132958-francisco-recibir-victimas-pedofilos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El ayudante del Santa Claus holandés es declarado racista</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132957-ayudante-santa-claus-holandes-racismo?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Un tribunal de Ámsterdam (Holanda) dictaminó que el ayudante de Sinterklaas (Santa Claus holandés), conocido bajo el nombre de Negro Peter (Zwarte Piet), es un personaje racista.
+
+ 	La imagen de este personaje tradicional –el rostro pintado de negro, labios rojos, grandes pendientes de oro, traje llamativo y sombrero con plumas– causó el año pasado indignación entre muchos holandeses de piel negra, que acudieron a los tribunales denunciando racismo. La corte llegó a la conclusión de que el Negro Peter representa &quot;un estereotipo negativo de una persona negra&quot;, con lo que su apariencia al parecer sufrirá cambios.
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 01:03:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132957-ayudante-santa-claus-holandes-racismo</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Diputado indio: &#34;Soltaré a mis chicos para que violen a las mujeres&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/sociedad/view/132952-diputado-indio-amenazar-disparos-violencia?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/4d7/4d734a853b215c087c4b0cb6f9db08fc_small.jpg" /><br>
+							Un político indio del partido del Gobierno en el estado de Bengala desató una fuerte polémica en el país tras amenazar a sus oponentes del Partido Comunista Marxista con agresiones sexuales y disparos.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/4d7/4d734a853b215c087c4b0cb6f9db08fc_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 12:58:05  GMT</pubDate>
+				<guid>http://actualidad.rt.com/sociedad/view/132952-diputado-indio-amenazar-disparos-violencia</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>&#34;La NSA es una máquina totalitaria comparable con una dictadura&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132947-exempleado-nsa-maquina-totalitaria-dictadura?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/8a8/8a81fc08f70fe57195f011a76719b549_small.jpg" /><br>
+							Las prácticas de la NSA tienen un carácter totalitario y violan la Constitución de EE.UU. al recolectar datos sobre ciudadanos, según denunció William Binney, exempleado de la agencia que intervenino ante un comité del Parlamento alemán en Berlín.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/8a8/8a81fc08f70fe57195f011a76719b549_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 12:39:37  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132947-exempleado-nsa-maquina-totalitaria-dictadura</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Varios heridos tras una explosión en una estación de tren en Egipto</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132956-egipto-explosion-estacion-tren-heridos?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Al menos ocho personas resultaron heridas tras una fuerte explosión en una estación de ferrocarriles en la ciudad de Alejandría, en el norte de Egipto. Los heridos en estado grave fueron trasladados al hospital, informa Itar-Tass.
+ 	
+   	Según algunos informes, una granada de mano explotó en la estación de Sidi Gaber, en el este de la ciudad, mientras otros indican que la explosión se produjo en el interior del tren.
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 12:38:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132956-egipto-explosion-estacion-tren-heridos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>La OEA respalda a Argentina en disputa con los &#39;fondos buitre&#39;</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132955-oea-argentina-fondos-buitre?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/f35/f35edeab425574c3f5d5ac00cd981df4_small.jpg" /><br>
+							La OEA aprueba una resolución a favor de Argentina en el litigio con algunos de sus acreedores, los llamados fondos buitre. En la reunión extraordinaria, solo EEUU y Canadá no han respaldado el acuerdo.
+
+Sobre este pleito, el analista Alejandro Sánchez piensa que el hecho de que un juez norteamericano decida el futuro económico de la nación sudamericana, demuestra el tipo de relación neocolonialista que intenta proyectar Washington.
+
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/f35/f35edeab425574c3f5d5ac00cd981df4_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 12:37:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132955-oea-argentina-fondos-buitre</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Scolari a periodistas brasileños: &#34;Que se vayan al infierno&#34;</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132954-scolari-periodistas-infierno?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Entre el seleccionador brasileño Luiz Felipe Scolari y los periodistas de su país se instaló un ambiente de guerra en la rueda de prensa previa al choque de este sábado frente a Colombia por el pase a semifinales del Mundial 2014, informa El Comercio.
+
+ 	El seleccionador se quejó de las &quot;maldades&quot; escritas por los periodistas sobre la inestabilidad emocional de su equipo y defendió la reunión que sostuvo con seis analistas en Teresópolis (Brasil), tras ser criticado por los que no fueron invitados. &quot;Celos de hombre, ¡por amor de dios! Si les gusta, ok, si no, que se vayan al infierno&quot;, declaró.
+ 
+					]]>
+				</description>
+				<pubDate>Fri, 04 Jul 2014 12:31:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132954-scolari-periodistas-infierno</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Marte podría contener agua líquida a pesar de las temperaturas bajo cero</title>
+						<link><![CDATA[http://actualidad.rt.com/ciencias/view/132945-marte-agua-liquida-temperaturas-bajas?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/312/312308d486ac68a936e724b1c5045f5b_small.jpg" /><br>
+							Un experimento de los científicos de la Universidad de Michigan, que recrea las condiciones del Marte en unas cámaras especiales, demuestra que podría contener pequeñas cantidades de agua líquida pese a temperaturas bajo cero.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/312/312308d486ac68a936e724b1c5045f5b_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Fri, 04 Jul 2014 12:17:09  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ciencias/view/132945-marte-agua-liquida-temperaturas-bajas</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Irak: la historia vuelve a repetirse</title>
+						<link><![CDATA[http://actualidad.rt.com/blogueros/alberto-hutschenreuter/view/132917-irak-historia-vuelve-repetirse?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://esp.rt.com//actualidad/public_images/6fd/6fd64be294997bd430cdf5930b26c109_" /><br>
+							Entrevista a Alejandro Sánchez Camacho, secretario general del PRD de México.
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 23:37:58  GMT</pubDate>
+				<guid>http://actualidad.rt.com/blogueros/alberto-hutschenreuter/view/132917-irak-historia-vuelve-repetirse</guid>
+					<dc:creator>Perspectiva Equilibrium</dc:creator>
+					<authors link="http://actualidad.rt.com/blogueros/alberto-hutschenreuter">
+						<author>Perspectiva Equilibrium</author>
+					</authors>
+			</item>
+			
+			<item>
+				<title>Discordia sobre Siria en EE.UU.: ¿pueden ser aliados en la crisis iraquí?</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132934-eeuu-siria-aliado-crisis-iraqui?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/c94/c945ee0005441474049ce8e192ad7e08_small.jpg" /><br>
+							Frente a los combates en Irak entre el Gobierno y el Estado Islámico —el antiguo EIIL— surge un cisma en Washington en cuanto a Siria. EE.UU. ha sido inflexible en su intención de derrumbar a Al Assad, pero ¿merece la pena continuar siéndolo?
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/c94/c945ee0005441474049ce8e192ad7e08_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 23:11:45  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132934-eeuu-siria-aliado-crisis-iraqui</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Dos físicos rusos se proponen reconstruir la Torre Tesla</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132950-fisicos-rusos-completar-torre-tesla?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Dos físicos rusos de Siberia, Serguéi y Leonid Plejánovy, han lanzado una campaña en la plataforma de micromecenazgo Indie Gogo pidiendo 800.000 dólares necesarios para completar el ambicioso proyecto de Nikola Tesla en el campo de la transmisión inalámbrica de la energía eléctrica, La Torre Wardenclyffe (también conocida como La Torre Tesla).
+
+ 	Según ellos, la versión moderna de la torre Wardenclyffe, o transmisor planetario, permitirá &quot;transmitir la energía a través de la Tierra a cualquier distancia en el planeta&quot;, lo cual ayudará a resolver muchos problemas tecnológicos.
+ 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 23:02:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132950-fisicos-rusos-completar-torre-tesla</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Un hombre de 72 años enseña karate a la Policía brasileña para enfrentar a los manifestantes</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132936-anciano-ensena-karate-policia-brasilena?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/93c/93cf6f138ec3bd51605ba185dd0bde59_small.jpg" /><br>
+							Un británico de 72 años enseña a la Policía antidisturbios de Brasil cómo hacer frente a los manifestantes. Sus habilidades son ahora más demandadas durante el Mundial que acoge este país, que está inundado de protestas sociales.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/93c/93cf6f138ec3bd51605ba185dd0bde59_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 21:53:22  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132936-anciano-ensena-karate-policia-brasilena</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>La Fuerza de Defensa de Israel elimina un &#39;tuit&#39; sobre una fuga nuclear y dice que fue un &#39;hackeo&#39;</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132946-israel-elimina-twitter-fuga-nuclear-hacker?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Una cuenta oficial de Twitter de la Fuerza de Defensa de Israel emitió una advertencia sobre una posible fuga nuclear en el reactor de investigación de ese país. El 'tuit' fue borrado prontamente, mientras que los funcionarios informaron de que se debió a un fallo de seguridad y pidieron disculpas por la desinformación.
+
+  	
+Israeli Defence Forces (@IDFSpokesperson) got hacked by the Syrian Electronic Army pic.twitter.com/pPVbecDkXR— Frederic Jacobs (@FredericJacobs) July 3, 2014  We apologize for the incorrect tweets Our twitter account was compromised. We will combat terror on all fronts including the cyber dimension— IDF (@IDFSpokesperson) July 3, 2014 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 21:46:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132946-israel-elimina-twitter-fuga-nuclear-hacker</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Un yihadista noruego de padres chilenos, la nueva cara del terrorismo islámico</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132944-yihadista-chileno-nueva-cara-islamista?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							La organización terrorista Estado Islámico (EI), antes conocida como EIIL, ha publicado un video propagandístico en el que uno de sus miembros, presentado como Abu Safiyya, cuenta los planes de la rama de Al Qaeda de romper las fronteras de los estados para crear un estado islámico.
+   	El presentador del video, que habla con orgullo sobre las atrocidades que comete el EI en su intento por alcanzar su objetivo, es un tal Bastián Alexis Vásquez Núñez, de 24 años, nacido en Noruega de padres chilenos. &quot;No tenemos nacionalidades, somos musulmanes, somos un solo país&quot;, cuenta él en el video. 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 21:34:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132944-yihadista-chileno-nueva-cara-islamista</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Video, fotos: Al menos dos muertos tras colapsar un puente en Belo Horizonte</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132943-video-fotos-muertos-colapsar-puente-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/5d2/5d2a5a635a2f95a08cfef8eadeb86e07_small.jpg" /><br>
+							Al menos dos personas murieron y varias más resultaron heridas al colapsar un puente en la ciudad anfitriona de la Copa Mundial de Brasil Belo Horizonte, de acuerdo con el departamento local de bomberos.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/5d2/5d2a5a635a2f95a08cfef8eadeb86e07_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 21:34:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132943-video-fotos-muertos-colapsar-puente-brasil</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El sudeste de Ucrania sigue siendo blanco de los ataques del Ejército</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132942-ucrania-blanco-ataques-ejercito?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/73f/73f06dd221285fe8efd23b7417eb75b6_small.jpg" /><br>
+							Decenas de civiles murieron en la provincia de Donetsk durante los últimos días en ataques del Ejército, según apuntan líderes de esa república popular. Diferentes localidades, tanto allí como en la provincia de Lugansk, han sido blanco de bombardeos y ofensivas por parte de las fuerzas nacionales ucranianas. Tal ha sido la virulencia de los soldados que incluso un equipo de periodistas rusos resultó afectado.
+
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/73f/73f06dd221285fe8efd23b7417eb75b6_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 21:34:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132942-ucrania-blanco-ataques-ejercito</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Las setas psicodélicas podrían tener efectos permanentes y positivos en el cerebro humano</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132941-estudio-setas-psicodelicas-efectos-positivos?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							La psilocibina contenida en ciertos tipos de setas se diferencia de las drogas denominadas 'recreativas' en que no genera el sentido de euforia o de placer, sino que altera la percepción de manera semejante a los sueños, reporta el periódico 'Washington Post'.  	
+   	La sustancia estimula las mismas partes del cerebro que están activas cuando dormimos, pero lo hace cuando estamos despiertos. También reprime las partes de la mente 'responsables' de la cognición. Como resultado la percepción de la persona cambia, pero las conclusiones hechas durante esta 'nueva' percepción pueden grabarse en la memoria.
+  	
+   	Este proceso es psicológico además de bioquímico, porque un sueño impresionante —sea bueno o malo— puede influir en el comportamiento de una persona, y un 'sueño de vigilia' hace lo mismo de manera aún más persistente. Los autores sugieren que esta peculiaridad de la psilocibina puede ser útil en el tratamiento de la depresión y otras afecciones mentales.
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 21:04:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132941-estudio-setas-psicodelicas-efectos-positivos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Shanghái puede convertirse en la sede del Banco de los BRICS</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132940-shanghai-sede-banco-brics?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Shanghái puede convertirse en hogar para el nuevo banco multilateral de los países BRICS, informa el Financial Times. El banco es un intento de desafiar la creciente influencia de las economías emergentes en el escenario financiero global, actualmente dominado por EE.UU. y Europa mediante el Fondo Monetario Internacional y el Banco Mundial.
+ 	
+   	Los países del bloque a excepción de Brasil, que no participó en la iniciativa -China, Rusia, la India y Sudáfrica- plantearon ciudades para albergar la nueva institución financiera. Se espera que en la próxima cumbre de BRICS se determine el anfitrión de la sede del Banco. 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 20:50:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132940-shanghai-sede-banco-brics</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Video, fotos: Al menos dos muertos tras colapsar un puente en Belo Horizonte</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132937-brasil-muertos-colapsar-puente-belo-horizonte?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/4ea/4ea0308e08a5b4e28fb618c2d07aacb4_small.jpg" /><br>
+							Al menos dos personas murieron y varias más resultaron heridas al colapsar un puente en la ciudad anfitriona de la Copa Mundial de Brasil Belo Horizonte, de acuerdo con el departamento local de bomberos.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/4ea/4ea0308e08a5b4e28fb618c2d07aacb4_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 19:56:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132937-brasil-muertos-colapsar-puente-belo-horizonte</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>¿Es el Irak de hoy más seguro que con Sadam? Un joven iraquí tiene la respuesta</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132913-sadam-vida-guerra-golfo-irak?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/67c/67c24e918edf66e6e329cccd6955ebf4_small.jpg" /><br>
+							Wael Al-Sallai, un joven iraquí, responde a la siguiente pregunta lanzada por la red social Quora: &#34;¿Es Irak un lugar más seguro ahora en comparación con la época del régimen de Sadam Husein?&#34;.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/67c/67c24e918edf66e6e329cccd6955ebf4_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 19:14:07  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132913-sadam-vida-guerra-golfo-irak</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Ucrania: el nuevo ministro de Defensa &#34;firma&#34; la jura de su cargo con un bolígrafo tapado</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132932-ucrania-ministro-firmar-pluma-cerrada?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El nuevo ministro de Defensa ucraniano, Valeri Gueletei, designado este jueves, ha llamado atención, cuando, tras prestar juramento, 'firmó' el documento con un bolígrafo tapado.
+Новый министр обороны Украины после принятия присяги «расписался» ручкой с закрытым колпачком http://t.co/7eWQQ50uw3 pic.twitter.com/4uADznk0bt— RT на русском (@RT_russian) julio 3, 2014 
+  	Uno de los fotógrafos que estuvo en el acto publicó la foto en Facebook comentando: &quot;El nuevo ministro de Defensa de Ucrania es tan fuerte que puede hacer que la tinta se filtre a través de la tapa&quot;. 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 19:09:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132932-ucrania-ministro-firmar-pluma-cerrada</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Muere un niño hispano que partió a EE.UU. en busca de dinero para curar a su madre</title>
+						<link><![CDATA[http://actualidad.rt.com/sociedad/view/132907-nino-guatemala-fallecer-texas-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/352/3529b27ae0f6fbabeb1f297379ef4b9f_small.jpg" /><br>
+							A fin de conseguir el dinero necesario para curar la epilepsia de su madre, un niño guatemalteco, Gilberto Francisco Ramos Juárez, decidió emprender un viaje a EE.UU., pero falleció de camino, en el desierto de Texas, al parecer por la insolación.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/352/3529b27ae0f6fbabeb1f297379ef4b9f_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 18:15:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/sociedad/view/132907-nino-guatemala-fallecer-texas-eeuu</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Al mito del yeti &#39;se le cae el pelo&#39;</title>
+						<link><![CDATA[http://actualidad.rt.com/ciencias/view/132919-cientificos-mitologica-criatura-yeti-enigma?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/771/77194a43ed188c2449b576a159ff92d7_small.jpg" /><br>
+							Científicos de la Universidad de Oxford han analizado supuestas muestras de pelaje del mítico hombre de las nieves o yeti del Himalaya, y han llegado a la conclusión de que, en realidad, se corresponden con el pelo de especies de animales conocidas.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/771/77194a43ed188c2449b576a159ff92d7_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 17:59:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ciencias/view/132919-cientificos-mitologica-criatura-yeti-enigma</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Diputada interrumpe a Poroshenko: &#34;El Ejército mata a niños&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132929-diputada-interrumpe-poroshenko-mata-ninos?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/1db/1db03146010b471be2c53c52d37ea932_small.jpg" /><br>
+							En el parlamento ucraniano no todos comparten las acciones del Gobierno de Poroshenko en el este del país. El discurso del presidente sobre la situación del Ejército ucraniano fue interrumpido por una diputada opositora, que le gritó que las tropas matan niños. 
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/1db/1db03146010b471be2c53c52d37ea932_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 17:46:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132929-diputada-interrumpe-poroshenko-mata-ninos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Bombardean hotel donde se alojaba un equipo de periodistas rusos</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132928-bombardean-hotel-alojaban-periodistas-rusos?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/78b/78b0271981cf6311ac6374de3d5597e0_small.jpg" /><br>
+							Decenas de civiles han muerto en la provincia de Donetsk durante los últimos días en ataques del ejército, según los líderes de la autoproclamada república popular. Además, el ejército ha bombardeado un hotel donde se encontraba un equipo de la televisión estatal rusa Canal Uno.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/78b/78b0271981cf6311ac6374de3d5597e0_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 17:37:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132928-bombardean-hotel-alojaban-periodistas-rusos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>EE.UU. podría cooperar con Siria para resolver el conflicto en Irak</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132927-eeuu-podria-cooperar-siria-resolver-conflicto-irak?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/017/0178f435e6e3b135bf7c7e215df484ca_small.jpg" /><br>
+							EE.UU. estudiaría la posibilidad de cooperar con Siria para resolver el conflicto en Irak. Por lo menos así lo informa un portal estadounidense citando a fuentes en la Administración.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/017/0178f435e6e3b135bf7c7e215df484ca_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 17:34:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132927-eeuu-podria-cooperar-siria-resolver-conflicto-irak</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Una serie limitada de &#39;Putinphones&#39; se agota en Rusia en un solo día</title>
+						<link><![CDATA[http://actualidad.rt.com/sociedad/view/132906-serie-celulares-imagen-putin-se-vende-rusia-dia?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/7be/7be5807a1c44c78107e7e7d58c5c1844_small.jpg" /><br>
+							La firma italiana de artículos de lujo Caviar Phone vende en un solo día todas las unidades de iPhones de oro con la imagen de Putin. Los dispositivos, que se comercializan con el nombre &#39;SupremoPutin&#39;, cuestan 4.350 dólares cada uno.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/7be/7be5807a1c44c78107e7e7d58c5c1844_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 16:55:45  GMT</pubDate>
+				<guid>http://actualidad.rt.com/sociedad/view/132906-serie-celulares-imagen-putin-se-vende-rusia-dia</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Jerusalén Oriental: Choques entre palestinos y fuerzas de seguridad israelíes</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132925-israel-palestina-choques-fuerzas-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/07d/07d516c1430a4aea33e49721b0040320_small.jpg" /><br>
+							Jerusalén Oriental ha vuelto a ser escenario de fuertes choques entre la policía israelí y residentes palestinos después de que la víspera fuera encontrado el cadáver de un adolescente palestino que podría haber muerto a manos israelíes.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/07d/07d516c1430a4aea33e49721b0040320_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 16:52:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132925-israel-palestina-choques-fuerzas-seguridad</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El uso exagerado de Twitter puede perjudicar las relaciones de pareja</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132926-uso-exagerado-twitter-relaciones-romanticas?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Un reciente estudio de la revista especializada 'Cyberpsychology, Behavior and Social Networking' ('Ciberpsicología, Comportamiento y Redes Sociales') revela que &quot;el uso activo de Twitter puede generar muchos conflictos de pareja vinculados a la red social, lo que puede conducir a la infidelidad, la ruptura y el divorcio&quot;, informa Afp, citando los datos del estudio. 
+ 
+ El autor de la investigación, Russell Clayton de la Universidad de Missouri, considera que este descubrimiento subraya evidencias sobre el lado oscuro de las redes sociales y su papel en las relaciones interpersonales. 
+ 
+ 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 16:50:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132926-uso-exagerado-twitter-relaciones-romanticas</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Cuba reitera su apoyo a Argentina en su lucha contra los &#39;fondos buitre&#39;</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132924-cuba-reiterar-apoyo-argentina-fondos-buitres?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El primer vicepresidente de Cuba, Miguel Díaz-Canel, expresó hoy al ministro de Defensa argentino, Agustín Rossi, que se encuentra de visita oficial en la isla, su apoyo y solidaridad en la lucha de su Gobierno contra los 'fondos buitre', informa el diario 'Granma'.
+
+Los litigios entre Argentina y dichos fondos también serán analizados hoy por el Consejo Permanente de la Organización de Estados Americanos.    
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 16:45:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132924-cuba-reiterar-apoyo-argentina-fondos-buitres</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Video: Choques entre palestinos y fuerzas de seguridad israelíes</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132922-choques-palestinos-fuerzas-seguridad-israel?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/424/424b018d62a9bc6401ff037b5f5e5fb5_small.jpg" /><br>
+							Jerusalén Oriental ha vuelto a ser escenario de fuertes choques entre la policía israelí y residentes palestinos después de que la víspera fuera encontrado el cadáver de un adolescente palestino que podría haber muerto a manos israelíes.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/424/424b018d62a9bc6401ff037b5f5e5fb5_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 16:33:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132922-choques-palestinos-fuerzas-seguridad-israel</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Detienen en EE.UU. a un viajero uruguayo por rebasar su permiso de estancia en 30 minutos</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132923-detienen-eeuu-viajero-uruguayo-pasarse-minutos?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Un viajero de Uruguay que durante seis meses recorrió EE.UU. como 'mochilero' ha sido detenido por rebasar en 30 minutos el tiempo permitido de su estancia en el país. Hace dos semanas Diego Simonassi trató de pasar de EE.UU. a Canadá durante su último día de estancia, pero las autoridades canadienses le impidieron el paso en el cruce Peace Arch debido a que no tenía visa. 
+ 
+ A las 00.30 de la madrugada regresó a EE.UU. y pidió ayuda en el Servicio de Inmigración y Aduanas, pero allí lo detuvieron porque le había caducado la visa. En la actualidad el joven se encuentra detenido y espera su audiencia de fianza. 
+ 
+ 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 16:28:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132923-detienen-eeuu-viajero-uruguayo-pasarse-minutos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Secuestran en una ciudad iraquí a 46 enfermeras de la India</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132921-secuestran-enfermeras-india-ciudad-tikrit-irak?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Al menos 46 enfermeras de la India que trabajaban en un hospital en la ciudad iraquí de Tikrit han sido secuestradas, informa Reuters. 
+
+Las mujeres se encuentran en paradero desconocido y tres de ellas han sufrido heridas leves por rotura de cristales, informó Oommen Chandy, el gobernador del estado indio de Kerala, del que procede la mayoría de las enfermeras, citado por medios locales.   	    
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 16:03:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132921-secuestran-enfermeras-india-ciudad-tikrit-irak</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>AVANCE: Desde la sombra: &#34;Kosovo&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/programas/promo_avance/view/132920-AVANCE-Desde-sombra-Kosovo?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/689/6895ffc31c3aef7754e650de426ae1da_small.jpg" /><br>
+							Vea la nueva edición del programa &#39;Desde la sombra&#39; este 9 de julio.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/689/6895ffc31c3aef7754e650de426ae1da_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 15:58:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/programas/promo_avance/view/132920-AVANCE-Desde-sombra-Kosovo</guid>
+						
+						<dc:creator>Avance</dc:creator>
+			</item>
+			
+			<item>
+				<title>La solidaridad ciudadana empuja al ruinoso Ejército ucraniano casi más que el Estado</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132892-ucrania-solidaridad-ciudadana-ruinoso-ejercito?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/d35/d35372ffc2f57639807d123baa85514c_small.jpg" /><br>
+							A medida que avanza el conflicto en el este de Ucrania, salen a la luz más detalles sobre la situación paupérrima en la que se encuentran las tropas ucraninas, que a  menudo carecen del armamento necesario, e incluso de comida.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/d35/d35372ffc2f57639807d123baa85514c_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 15:35:06  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132892-ucrania-solidaridad-ciudadana-ruinoso-ejercito</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Video: Equipo del principal canal estatal ruso sale ileso de un bombardeo en Slaviansk</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132915-canal-uno-estatal-rusia-bombardeo-slaviansk?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/ef3/ef300b058e7318df35ac4b4ec5cb4dcf_small.jpg" /><br>
+							Un equipo del principal canal estatal ruso Canal Uno sale ileso de milagro de un bombardeo en Slaviansk.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/ef3/ef300b058e7318df35ac4b4ec5cb4dcf_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 15:11:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132915-canal-uno-estatal-rusia-bombardeo-slaviansk</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>&#34;Gracias por todo, Fuerza Aérea de Ucrania&#34;: Lugansk acusa a Kiev de matar a civiles</title>
+						<link><![CDATA[http://actualidad.rt.com/video/actualidad/view/132916-fuerza-aerea-ucrania-lugansk-civiles?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/c52/c52e6065775bb5345fff0f8c5db2c2f1_small.jpg" /><br>
+							Kondrashovka, un pueblo del este de Ucrania, se encuentra devastado tras los bombardeos de las tropas de Kiev, que dejaron siete muertos y muchas casas destrozadas. Los militares dicen que se trató de &#34;un error de los pilotos&#34;.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/c52/c52e6065775bb5345fff0f8c5db2c2f1_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 15:09:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/video/actualidad/view/132916-fuerza-aerea-ucrania-lugansk-civiles</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>El Estado Islámico se apodera de los mayores campos petrolíferos de Siria</title>
+						<link><![CDATA[http://actualidad.rt.com/actualidad/view/132903-eiil-controla-mayores-campos-petroleros-sirios?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/165/165fb7c3d9e095993da89387b66f07c1_small.jpg" /><br>
+							Los rebeldes sirios del Frente Al Nusra han cedido al grupo Estado Islámico, anteriormente conocido como EIIL, el control de la mayor parte de la provincia Siria de Deir ez-Zor, en la que se encuentran los mayores campos petrolíferos de este país.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/165/165fb7c3d9e095993da89387b66f07c1_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 15:04:29  GMT</pubDate>
+				<guid>http://actualidad.rt.com/actualidad/view/132903-eiil-controla-mayores-campos-petroleros-sirios</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Santos declara &#34;tarde cívica&#34; para que todos puedan ver el partido contra Brasil</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132914-santos-viernes-feriado-partido-colombia-brasil?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							El presidente de Colombia, Juan Manuel Santos, ha anunciado que declara este viernes  &quot;tarde cívica&quot; para que todos puedan ver el &quot;partido histórico&quot; entre Colombia y Brasil. 	
+   	&quot;Quiero anunciarle a todos los funcionarios del Gobierno que vamos a decretar esa tarde como cívica para que puedan ver el partido entre la selección de Colombia y su similar de Brasil&quot;, dijo el líder colombiano.   	
+   	El mandatario destacó que &quot;solamente los servicios especiales como seguridad y salud tendrán que permanecer en sus puestos&quot;. 
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 15:02:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132914-santos-viernes-feriado-partido-colombia-brasil</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Ricardo Darín: &#34;Es imprudente que Hollywood ofrezca a latinos roles de narcovillanos&#34;</title>
+						<link><![CDATA[http://actualidad.rt.com/cultura/view/132893-ricardo-darin-imprudente-hollywood-latinos-narco-villanos?utm_source=rss&utm_medium=rss&utm_campaign=all]]></link>
+				<description>
+					<![CDATA[
+								<img alt="Preview" style="float:left" src="http://cdn.rt.com/actualidad/public_images/521/521a523060890c3ab18a3bf0de9fbfa2_small.jpg" /><br>
+							En una entrevista con RT, el destacado actor argentino Ricardo Darín da su opinión sobre los Óscar y revela qué propuestas de Hollywood puede esperar un actor latinoamericano, además de abordar la política de legalización de la marihuana en Uruguay.
+					]]>
+				</description>
+						<enclosure url="http://cdn.rt.com/actualidad/public_images/521/521a523060890c3ab18a3bf0de9fbfa2_small.jpg" length="0" type="image/jpeg"/>
+				<pubDate>Thu, 03 Jul 2014 14:53:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/cultura/view/132893-ricardo-darin-imprudente-hollywood-latinos-narco-villanos</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+			
+			<item>
+				<title>Video: Madrid, sorprendido por una fuerte granizada</title>
+					<link><![CDATA[http://actualidad.rt.com/ultima_hora/view/132912-video-intensa-granizada-sorprende-madrid?utm_source=rss&utm_medium=rss&utm_campaign=breves]]></link>
+				<description>
+					<![CDATA[
+							Madrid ha sido golpeado hoy por una intensa granizada que duró 10 minutos, y que sorprendió a los ciudadanos, generando grandes atascos en la capital española.
+   Que caiga este granizo en Madrid, en pleno mes de Julio, sencillamente NO es normal. pic.twitter.com/udSV8FV5He— Nacional (@MarioPlvsVltra) 3 июля 2014  #granizo #sanblas #madrid pic.twitter.com/iZcA0pRTzp— Jose Lagar (@Jose20vt) 3 июля 2014Aquí se puede ver el video de la granizada.  
+					]]>
+				</description>
+				<pubDate>Thu, 03 Jul 2014 14:43:00  GMT</pubDate>
+				<guid>http://actualidad.rt.com/ultima_hora/view/132912-video-intensa-granizada-sorprende-madrid</guid>
+					<dc:creator>RT en español</dc:creator>
+			</item>
+	</channel>
+</rss>

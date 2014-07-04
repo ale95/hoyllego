@@ -1,0 +1,10 @@
+#pag2cont > #tniframe{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border:none;
+	margin: 0;
+	padding: 0;
+	transition:all 0.3s;
+	background: rgba(255,255,255,0.9);
+}

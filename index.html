@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hoy Llego</title>
+	<link rel="stylesheet" type="text/css" href="princ.css">
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link rel="icon" type="image/png" href="imgs/favicon.png"/>
+	<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js"></script>
+	<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+</head>
+<body onload="princLoad()">
+	<div id="princLoad">
+		<div>Cargando.. aguarde un momento</div>
+		<img src="imgs/princLoad.gif">
+	</div>
+	<div id="error">Error al recibir datos.</div>
+	<header>
+		<div id="logocont">
+			<div class="logo"><img src="imgs/logo.png"></div>
+			<div class="logo" onclick="volver()" title="Volver"><img src="imgs/flecha.png"></div>
+		</div><div id="marcacont" onclick="swOpciones()">
+			<div id="marca" class="marcasub">Hoy Llego</div>
+			<div id="submarca" class="marcasub"> </div>
+		</div>
+		<div id="pregunta" class=" "><span id="autorespuesta"></span></div>
+		<div id="hora" onclick="horaswitch()">--:--</div>
+	</header>
+
+
+	<div id="opciones">
+		<div id="subopNoLogin" class="subSubop show">
+			<div class="subop" onclick='switchWidSw()'>Widgets</div>
+			<div class="subop" onclick='sombreado("login",2)'>Iniciar Sesión</div>
+			<div class="subop" onclick='sombreado("register",2); loadCaptcha()'>Registrarse</div>
+		</div>
+		<div id="subopLogin" class="subSubop">
+			<div class="subop" onclick='switchWidSw()'>Widgets</div>
+			<div class="subop" onclick='sombreado("setUserBackground",2)'>Cambiar fondo</div>
+			<div class="subop" onclick='logout()'>Cerrar Sesión</div>
+		</div>
+		<div class="subop" onclick='sombreado("about",2)'>Acerca de</div>
+	</div>
+
+	<div id="cargando" class="">
+		<img src="imgs/update.gif">
+	</div>
+
+	<div id="widSwCont">
+		<div id="widSw">
+		</div>
+		<div class="cerrar" onclick="switchWidSw()">
+			Cerrar
+		</div>
+	</div>
+
+
+
+
+
+	<div id="container">
+		<div id="pag1cont">
+
+		</div>
+		<div id="pag2">
+			<div id="pag2pest" onmousedown="pag2pestDrag(event, 1, 1)" ontouchstart="pag2pestDrag(event,1, 2)"></div>
+			<div id="pag2cont"></div>
+		</div>
+	</div>
+
+
+
+
+	<div id="about">
+		<div id="titulo">Hoy Llego</div>
+		<img src="imgs/logo1.svg" alt="logo" id="logo">
+		<div id="version"><span style="font-weight:bold;">Versión:</span> Alpha4</div>
+		<div id="maintext">
+			HoyLlego es un sistema que recopila información de los medios de trasportes y el estado del clima para mostrarlo de manera simple y directa a los usuarios.
+		</div>
+		<div class="equipo izq">
+			<div class="titulo">Equipo Técnico: </div>
+			<ul class="integrantes">
+				<li>Pereyra, Armando</li>
+				<li>Noe, Joaquin</li>
+				<li>Aceval, Alejo</li>
+				<li>Molina, Sebastian</li>
+				
+			</ul>
+		</div>
+		<div class="equipo der">
+			<div class="titulo">Equipo Administrativo: </div>
+			<ul class="integrantes">
+				<li>Diaz, Matias</li>
+				<li>Graffe, Bruno</li>
+				<li>Fernandez, Franco</li>
+				<li>Gonzales, Emanuel</li>
+			</ul>			
+		</div>
+		<div class="cerrar" onclick='sombreado("about",1)'>Cerrar</div>
+	</div>
+
+
+
+
+	<form id="login" action="javascript:loginSubmit()">
+		<div class="modulotexto"><div class="logeo">Usuario: </div><input type="text" name="usuario"></div>
+		<div class="modulotexto"><div class="logeo">Contraseña: </div><input type="password" name="pass"></div>
+		<div id="botonera">
+			<input type="submit" value="Ingresar" class="boton">
+			<div class="boton" onclick='sombreado("login",1)'>Cerrar</div>
+		</div>
+		<div id="errorlogin">
+			Error al iniciar sesión
+		</div>
+	</form>
+
+
+
+	<form id="register" action='javascript:registerSubmit()'>
+		<div class="fila">
+			<div class="col1">E-Mail:</div><input type="text" class='col2' name="email">
+		</div>
+		<div class="fila">
+			<div class="col1">Usuario:<span style="font-size:10px">(mas de 4 caracteres)</span></div><input type="text" class='col2' name="newuser">
+		</div>
+		<div class="fila">
+			<div class="col1">Contraseña:<span style="font-size:10px">(mas de 4 caracteres)</span></div><input type="password" class='col2' name="newpass1">
+		</div>
+			<div class="fila">
+			<div class="col1">Repetir contraseña:</div><input type="password" class='col2' name="newpass2">
+		</div>
+		<div id="captcha"></div>
+		<div class="botonera">
+			<input type="submit" value="Ingresar" class="boton">
+			<div class="boton" onclick='sombreado("register",1)'>Cerrar</div>
+		</div>
+		<div id="registerLoadAnim" class="">
+			<img src="imgs/update.gif">
+		</div>
+		<div id="registerError">
+			
+		</div>
+	</form>
+
+	<form id='setUserBackground' action="javascript:setUserBackground(1)">
+		<div class="col1">URL de imagen:</div><input type="text" class='col2' name="userBackgroundURL">
+		<div id="botonera">
+			<input type="submit" value="Aceptar" class="boton">
+			<div class="boton" onclick='setUserBackground(0)'>Reiniciar</div>
+			<div class="boton" onclick='sombreado("setUserBackground",1)'>Cerrar</div>
+		</div>
+
+	</form>
+
+	<div class="boton" id="ordenarWidgetsCerrBot">Terminar</div>
+
+	<script type="text/javascript">
+		function move() {
+			document.getElementById("container").className = 'move';
+			document.getElementById("cargando").className = ' ';
+			document.getElementById("logocont").className = 'move';
+			document.getElementById("marcacont").className = 'move';
+			document.getElementById("pag2pest").style.left = 0;
+		}
+		function volver() {
+			document.getElementById("container").className -= 'move';
+			document.getElementById("logocont").className = '';
+			document.getElementById("marcacont").className = '';
+			setTimeout(function(){document.getElementById("pag2cont").innerHTML = ""}, 500);
+			SPFlagAct = 0;
+		}
+		function swOpciones () {
+			if (document.getElementById("opciones").className == "show"){
+				document.getElementById("opciones").className = " ";
+			} else {
+				document.getElementById("opciones").className = "show";
+			}
+		}
+		function pag2pestDrag(sev, flag, disp){
+			var b = document.getElementById("pag2pest");
+			if (disp == 1){
+				var mxc = sev.clientX;
+			} else if (disp == 2){
+				var mxc = sev.changedTouches[0].clientX;
+			}
+			document.body.onmouseup = function(){pag2pestDrag(2);};
+			b.addEventListener("touchend",function(){pag2pestDrag(2);},false);
+			var mx, mxr;
+			if (flag == 1){
+				pestwid = parseInt(window.getComputedStyle(b).width);
+				resto = pestwid - window.innerWidth;
+				b.addEventListener("touchmove",move,false);
+				document.body.onmousemove = move;
+				var mxcom = parseInt(window.getComputedStyle(b).left);
+				function move(e) {
+					if (disp == 1){
+						ev = e || window.event;
+					} else if (disp == 2){
+						ev = e.changedTouches[0];
+						e.preventDefault();
+					}
+					mx = ev.clientX;
+					mxr = mx-mxc+mxcom;
+					if (mxr >= -resto)
+						b.style.left = (mxr < 0)? mxr + "px" : 0; 
+				}
+			} else {
+				document.body.onmousemove = null;
+				b.removeEventListener("touchmove",move,false);
+
+				
+			}
+		}
+
+		function sombreado(i, t) {
+			var f = (t == 1)? " " : "show";
+			if (t != 1){
+				swOpciones();
+				document.getElementById("register").reset();
+			}
+			document.getElementById(i).className = f;
+			document.getElementById("registerError").className = " ";
+			document.getElementById("registerLoadAnim").className = " ";
+		}
+
+		function switchWidSw(){
+			if (document.getElementById("widSwCont").className == "show"){
+				document.getElementById("widSwCont").className = " ";
+			} else {
+				document.getElementById("widSwCont").className = "show";
+			}
+			if (document.getElementById("opciones").className == "show"){
+				swOpciones();
+			}
+		}
+
+		</script>
+		<script type="text/javascript" src="scripts/hora.js"></script>
+		<script type="text/javascript" src="scripts/princ.js"></script>
+		<script type="text/javascript" src="scripts/userstuff.js"></script>
+
+
+</body>

@@ -1,0 +1,8 @@
+[
+	{"nombre" : "tiempo", "dispNombre" : "Tiempo", "visible" : "1"},
+	{"nombre" : "subtes", "dispNombre" : "Subtes", "visible" : "1"},
+	{"nombre" : "trenes", "dispNombre" : "Trenes", "visible" : "1"},
+	{"nombre" : "tn", "dispNombre" : "Todo Noticias", "visible" : "0"},
+	{"nombre" : "infobae", "dispNombre" : "Infobae", "visible" : "0"}
+
+]

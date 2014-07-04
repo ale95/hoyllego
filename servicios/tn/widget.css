@@ -1,0 +1,98 @@
+.NotiCont
+{
+	-webkit-animation: desliz 50s infinite;
+	animation: desliz 50s infinite;
+}
+.NotiCont > .FondoNoti
+{
+	display: inline-block;
+    vertical-align: top;
+	box-sizing: border-box;
+	background: center center no-repeat;
+    background-size: 70%;
+
+}
+.FondoNoti > .TituloNoti
+{
+	font-weight: bold;
+	text-align: left;
+	padding: 10px;
+    width: 75%;
+	background-color: rgba(0,0,0,0.7);
+    color: #fff;
+    box-shadow: 0 0 3px rgba(0,0,0,0.6);
+    box-sizing:border-box;
+}
+.FondoNoti > .DescNoti
+{
+    width: 75%;
+	padding: 25px;
+	text-align: right;
+	background-color: rgba(255,255,255, 0.8);
+        box-shadow: 0 0 3px rgba(0,0,0,0.6);
+    float: right;
+
+    box-sizing:border-box;
+
+}
+.FondoNoti > .DescNoti.cFoto{
+	margin-top: 100px;
+}
+@media screen and (max-width:560px){
+    .FondoNoti > .TituloNoti{
+        width: 100%;
+    }
+    .FondoNoti > .DescNoti{
+        width: 100%;
+    }
+
+}
+
+@-webkit-keyframes desliz {
+    0%   {margin-left: 0}
+    9%  {margin-left: 0}
+    10%  {margin-left: -100%}
+    19%  {margin-left: -100%}
+    20%  {margin-left: -200%}
+    29%  {margin-left: -200%}
+    30%  {margin-left: -300%}
+    39%  {margin-left: -300%}
+    40%  {margin-left: -400%}
+    49%  {margin-left: -400%}
+    50%  {margin-left: -500%}
+    59%  {margin-left: -500%}
+    60%  {margin-left: -600%}
+    69%  {margin-left: -600%}
+    70%  {margin-left: -700%}
+    79%  {margin-left: -700%}
+    80%  {margin-left: -800%}
+    89%  {margin-left: -800%}
+    90%  {margin-left: -900%}
+    99%  {margin-left: -900%}
+    100%  {margin-left: -900%}
+
+}
+@keyframes desliz {
+    0%   {margin-left: 0}
+    9%  {margin-left: 0}
+    10%  {margin-left: -100%}
+    19%  {margin-left: -100%}
+    20%  {margin-left: -200%}
+    29%  {margin-left: -200%}
+    30%  {margin-left: -300%}
+    39%  {margin-left: -300%}
+    40%  {margin-left: -400%}
+    49%  {margin-left: -400%}
+    50%  {margin-left: -500%}
+    59%  {margin-left: -500%}
+    60%  {margin-left: -600%}
+    69%  {margin-left: -600%}
+    70%  {margin-left: -700%}
+    79%  {margin-left: -700%}
+    80%  {margin-left: -800%}
+    89%  {margin-left: -800%}
+    90%  {margin-left: -900%}
+    99%  {margin-left: -900%}
+    100%  {margin-left: -900%}
+
+}

@@ -1,0 +1,6 @@
+http://trenes.mininterior.gov.ar/v2_pg/mapas/sarmiento/index.php
+http://trenes.mininterior.gov.ar/v2_pg/mapas/mitre/mapa_mitre_tigre.php
+http://trenes.mininterior.gov.ar/v2_pg/mapas/mitre/mapa_mitre_mitre.php
+http://trenes.mininterior.gov.ar/v2_pg/mapas/mitre/mapa_mitre_jlsuarez.php
+http://trenes.mininterior.gov.ar/v2_pg/mapas/roca/mapa_laplata.php
+el resto cagate

@@ -1,0 +1,38 @@
+#subtesPrinc
+{
+	height: 100%;
+	text-align: center;
+}
+
+.circ
+{
+	display: inline-block;
+	padding: 35px 15px 10px 15px;
+	color: #fff;
+	font-size: 30px;
+}
+.circ.h
+{
+	color: #333;
+}
+.estado
+{
+	display: inline-block;
+	padding: 0 0 5px 0;
+	margin-top: 10px;
+	text-align: center;
+	margin: 0 7px 15px 7px;
+	font-size: 13px;
+}
+.estado.verde
+{
+	border-bottom: solid 3px LimeGreen;
+}
+.estado.amarillo
+{
+	border-bottom: solid 3px Gold;
+}
+.estado.rojo
+{
+	border-bottom: solid 3px Red;
+}

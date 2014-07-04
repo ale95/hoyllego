@@ -1,0 +1,55 @@
+#temp-cont{
+	height: 150px;
+	background: center -5px no-repeat;
+	text-align: center;
+}
+#temp-t{
+	margin-right:5%;
+	float: right;
+	display: inline-block;
+	font-size: 35px;
+	color: #fff;
+	background: #333;
+	padding: 25px 0 0 0;
+
+}
+#temp-estado{
+	display: block;
+	font-size: 21px;
+	font-style: italic;
+	padding: 5px;
+	text-align: center;
+	background-color: #666;
+	white-space: nowrap;
+	margin: 10px 0 0 0 ;
+}
+#temp-maxmin-cont{
+	position: absolute;
+	background: #88b;
+	width: 150px;
+	height: 30px;
+	top: 0;
+	left: 20px;
+	text-align: left;
+}
+.temp-m{
+	display: inline-block;
+	font-size: 13px;
+	padding: 8px 0 0 16px;
+	color: #fff;
+}
+#temp-icono
+{
+	width: 250px;
+	height: 121px;
+	margin-top: -10px;
+	margin-left: 50px;
+	float: left;
+}
+@media screen and (max-width:560px){
+	#temp-cont{
+		height: 150px;
+		background: 10px 10px no-repeat;
+		text-align: center;
+	}
+}

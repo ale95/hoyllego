@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Subtes de Buenos Aires (Buenos Aires&#39; Subways)</name>
+  <description><![CDATA[Estaciones de subterráneos de Buenos Aires (Buenos Aires' Subways' stations). Fuente: http://es.wikipedia.org/wiki/Subte_de_Buenos_Aires]]></description>
+  <Style id="style43">
+    <LineStyle>
+      <color>73FFCC33</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <LineStyle>
+      <color>73FF3333</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <LineStyle>
+      <color>73009900</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <LineStyle>
+      <color>73CC33CC</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <LineStyle>
+      <color>CC00FFFF</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Linea A</name>
+    <description><![CDATA[<div dir="ltr">Linea A</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.469753,-34.630737,0.000000
+        -58.463917,-34.629181,0.000000
+        -58.454731,-34.625790,0.000000
+        -58.452579,-34.624870,0.000000
+        -58.448631,-34.623390,0.000000
+        -58.445030,-34.622120,0.000000
+        -58.441509,-34.620491,0.000000
+        -58.432709,-34.616638,0.000000
+        -58.431999,-34.616249,0.000000
+        -58.430050,-34.615440,0.000000
+        -58.426170,-34.613731,0.000000
+        -58.421169,-34.611450,0.000000
+        -58.420120,-34.611149,0.000000
+        -58.405998,-34.610069,0.000000
+        -58.394390,-34.609348,0.000000
+        -58.392200,-34.609138,0.000000
+        -58.386559,-34.609428,0.000000
+        -58.374950,-34.608528,0.000000
+        -58.372162,-34.608910,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Plaza de Mayo</name>
+    <description><![CDATA[<div dir="ltr">Terminal Plaza de Mayo de la linea A.</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-58.372166,-34.608982,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Perú</name>
+    <description><![CDATA[<div dir="ltr">Estación Perú de la linea A. Combinación con lineas D y E.</div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-58.374973,-34.608627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piedras</name>
+    <description><![CDATA[<div dir="ltr">Estación Piedras de la linea A.</div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-58.377831,-34.608788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lima</name>
+    <description><![CDATA[<div dir="ltr">Estación Lima de la linea A. Combinación con la linea C.</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-58.381969,-34.609104,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saenz Peña</name>
+    <description><![CDATA[<div dir="ltr">Estación Saenz Peña de la linea A.</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-58.387272,-34.609512,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Congreso</name>
+    <description><![CDATA[<div dir="ltr">Estación Congreso de la linea A.</div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-58.391991,-34.609226,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasco</name>
+    <description><![CDATA[<div dir="ltr">Estación Pasco de la linea A.</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-58.397591,-34.609600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alberti</name>
+    <description><![CDATA[<div dir="ltr">Estación Alberti de la linea A.</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-58.401840,-34.609917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Miserere</name>
+    <description><![CDATA[<div dir="ltr">Estación Plaza Miserere de la linea A. Combinación con la linea H.</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-58.406109,-34.610077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Loria</name>
+    <description><![CDATA[<div dir="ltr">Estación Loria de la linea A.</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-58.414436,-34.610729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castro Barros</name>
+    <description><![CDATA[<div dir="ltr">Estación Castro Barros de la linea A.</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-58.421085,-34.611435,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Río de Janeiro</name>
+    <description><![CDATA[<div dir="ltr">Estación Río de Janeiro de la linea A.</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-58.430058,-34.615425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Acoyte</name>
+    <description><![CDATA[<div dir="ltr">Estación Acoyte de la linea A.</div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-58.436474,-34.618340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Primera Junta</name>
+    <description><![CDATA[<div dir="ltr">Estación Primera Junta de la linea A.</div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>-58.441429,-34.620567,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puan</name>
+    <description><![CDATA[<div dir="ltr">Estación Puan de la linea A. Inaugurada el 22/12/2008 a las 17.45hs</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-58.448681,-34.623550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carabobo</name>
+    <description><![CDATA[<div dir="ltr">Estación Carabobo de la linea A.</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-58.456879,-34.626568,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linea B</name>
+    <description><![CDATA[<div dir="ltr">Linea B</div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.370220,-34.602951,0.000000
+        -58.374062,-34.603249,0.000000
+        -58.380482,-34.603619,0.000000
+        -58.380970,-34.603680,0.000000
+        -58.381569,-34.603600,0.000000
+        -58.382648,-34.603748,0.000000
+        -58.388721,-34.604149,0.000000
+        -58.392269,-34.604469,0.000000
+        -58.393242,-34.604439,0.000000
+        -58.396172,-34.604488,0.000000
+        -58.403622,-34.604752,0.000000
+        -58.406109,-34.604511,0.000000
+        -58.408909,-34.604080,0.000000
+        -58.410782,-34.604019,0.000000
+        -58.413231,-34.604172,0.000000
+        -58.415291,-34.603909,0.000000
+        -58.416801,-34.603580,0.000000
+        -58.417770,-34.603470,0.000000
+        -58.432190,-34.602032,0.000000
+        -58.438770,-34.599861,0.000000
+        -58.442539,-34.596432,0.000000
+        -58.443539,-34.595428,0.000000
+        -58.445839,-34.593288,0.000000
+        -58.447651,-34.591721,0.000000
+        -58.455261,-34.587139,0.000000
+        -58.466171,-34.584141,0.000000
+        -58.467918,-34.583599,0.000000
+        -58.473221,-34.581860,0.000000
+        -58.480183,-34.578316,0.000000
+        -58.486835,-34.573971,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Leandro N. Alem</name>
+    <description><![CDATA[<div dir="ltr">Terminal Leandro N. Alem de la linea B.</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-58.370190,-34.603012,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Florida</name>
+    <description><![CDATA[<div dir="ltr">Estación Florida de la linea B.</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-58.375233,-34.603313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carlos Pelegrini</name>
+    <description><![CDATA[<div dir="ltr">Estación Carlos Pelegrini de la linea B. Combinación con lineas C y D.</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-58.380962,-34.603699,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Uruguay</name>
+    <description><![CDATA[<div dir="ltr">Estación Uruguay de la linea B.</div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-58.386581,-34.604019,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Callao</name>
+    <description><![CDATA[<div dir="ltr">Estación Callao de la linea B.</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-58.392269,-34.604511,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasteur</name>
+    <description><![CDATA[<div dir="ltr">Estación Pasteur de la linea B.</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-58.399479,-34.604652,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pueyrredón</name>
+    <description><![CDATA[<div dir="ltr">Estación Pueyrredón de la linea B. Combinación con la linea H.</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-58.405529,-34.604603,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carlos Gardel</name>
+    <description><![CDATA[<div dir="ltr">Estación Carlos Gardel de la linea B.</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-58.411774,-34.604088,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Medrano</name>
+    <description><![CDATA[<div dir="ltr">Estación Medrano de la linea B.</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-58.421001,-34.603207,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ángel Gallardo</name>
+    <description><![CDATA[<div dir="ltr">Estación Ángel Gallardo de la linea B.</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-58.432137,-34.602039,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Malabia</name>
+    <description><![CDATA[<div dir="ltr">Estación Malabia de la linea B.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-58.439796,-34.599018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dorrego</name>
+    <description><![CDATA[<div dir="ltr">Estación Dorrego de la linea B.</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-58.447651,-34.591778,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Federico Lacroze</name>
+    <description><![CDATA[<div dir="ltr">Estación Federico Lacroze de la linea B.</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-58.455269,-34.587132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tronador</name>
+    <description><![CDATA[<div dir="ltr">Estación Tronador de la linea B.</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-58.466297,-34.584076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Los Incas</name>
+    <description><![CDATA[<div dir="ltr">Estación Los Incas de la linea B.</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-58.474300,-34.581303,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linea C</name>
+    <description><![CDATA[<div dir="ltr">Linea C</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.375381,-34.592522,0.000000
+        -58.378536,-34.595165,0.000000
+        -58.378429,-34.596371,0.000000
+        -58.378323,-34.598873,0.000000
+        -58.378216,-34.600258,0.000000
+        -58.378151,-34.601616,0.000000
+        -58.378128,-34.602459,0.000000
+        -58.379654,-34.605003,0.000000
+        -58.380726,-34.609154,0.000000
+        -58.380619,-34.610477,0.000000
+        -58.380554,-34.611942,0.000000
+        -58.380466,-34.613640,0.000000
+        -58.380360,-34.616077,0.000000
+        -58.380276,-34.617702,0.000000
+        -58.380123,-34.620373,0.000000
+        -58.380081,-34.621552,0.000000
+        -58.380058,-34.622066,0.000000
+        -58.380341,-34.622616,0.000000
+        -58.382229,-34.627789,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Retiro</name>
+    <description><![CDATA[<div dir="ltr">Terminal Retiro de la linea C.</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-58.375340,-34.592537,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>General San Martín</name>
+    <description><![CDATA[<div dir="ltr">Estación General San Martín de la linea C.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-58.378548,-34.595161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lavalle</name>
+    <description><![CDATA[<div dir="ltr">Estación Lavalle de la linea C.</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-58.378128,-34.602375,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diagonal Norte</name>
+    <description><![CDATA[<div dir="ltr">Estación Diagonal Norte de la linea C. Combinaciones con las lineas B y D.</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-58.379524,-34.604866,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenida de Mayo</name>
+    <description><![CDATA[<div dir="ltr">Estación Avenida de Mayo de la linea C. Combinación con la linea A.</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-58.380703,-34.609016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Moreno</name>
+    <description><![CDATA[<div dir="ltr">Estación Moreno de la linea C.</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-58.380554,-34.611843,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Independencia</name>
+    <description><![CDATA[<div dir="ltr">Estación Independencia de la linea C.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-58.380234,-34.617619,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Juan</name>
+    <description><![CDATA[<div dir="ltr">Estación San Juan de la linea C.</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-58.380039,-34.622120,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Constitución</name>
+    <description><![CDATA[<div dir="ltr">Terminal Constitución de la linea C.</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-58.382229,-34.627804,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linea D</name>
+    <description><![CDATA[<div dir="ltr">Linea D</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.462479,-34.555500,0.000000
+        -58.456600,-34.562126,0.000000
+        -58.455311,-34.563629,0.000000
+        -58.454304,-34.564796,0.000000
+        -58.453167,-34.565643,0.000000
+        -58.451065,-34.566757,0.000000
+        -58.446751,-34.569000,0.000000
+        -58.443790,-34.570503,0.000000
+        -58.442436,-34.571121,0.000000
+        -58.440701,-34.572109,0.000000
+        -58.437115,-34.574074,0.000000
+        -58.434692,-34.575222,0.000000
+        -58.433704,-34.575611,0.000000
+        -58.432438,-34.576157,0.000000
+        -58.431431,-34.576653,0.000000
+        -58.429455,-34.577202,0.000000
+        -58.428253,-34.577694,0.000000
+        -58.427010,-34.577976,0.000000
+        -58.425808,-34.578312,0.000000
+        -58.424156,-34.579197,0.000000
+        -58.421558,-34.580788,0.000000
+        -58.420422,-34.581898,0.000000
+        -58.418858,-34.583138,0.000000
+        -58.415359,-34.585522,0.000000
+        -58.413254,-34.586918,0.000000
+        -58.411217,-34.588261,0.000000
+        -58.409199,-34.589725,0.000000
+        -58.406818,-34.591969,0.000000
+        -58.405788,-34.592815,0.000000
+        -58.404865,-34.593452,0.000000
+        -58.403362,-34.594139,0.000000
+        -58.402172,-34.594456,0.000000
+        -58.401344,-34.596478,0.000000
+        -58.401047,-34.596996,0.000000
+        -58.400520,-34.597721,0.000000
+        -58.399982,-34.598022,0.000000
+        -58.399414,-34.598297,0.000000
+        -58.397247,-34.599674,0.000000
+        -58.396175,-34.599701,0.000000
+        -58.394974,-34.599628,0.000000
+        -58.392612,-34.599617,0.000000
+        -58.390831,-34.599510,0.000000
+        -58.388988,-34.599369,0.000000
+        -58.384846,-34.603027,0.000000
+        -58.380833,-34.603943,0.000000
+        -58.380188,-34.604473,0.000000
+        -58.378601,-34.605392,0.000000
+        -58.375725,-34.606857,0.000000
+        -58.374931,-34.607319,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Congreso de Tucumán</name>
+    <description><![CDATA[<div dir="ltr">Terminal Congreso de Tucumán de la linea D</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-58.462543,-34.555450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Juramento</name>
+    <description><![CDATA[<div dir="ltr">Estación Juramento de la linea D</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-58.456730,-34.562042,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>José Hernández</name>
+    <description><![CDATA[<div dir="ltr">Estación José Hernández de la linea D</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-58.452393,-34.566090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olleros</name>
+    <description><![CDATA[<div dir="ltr">Estación Olleros de la linea D</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-58.443939,-34.570473,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ministro Carranza</name>
+    <description><![CDATA[<div dir="ltr">Estación Ministro Carranza de la linea D</div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-58.434971,-34.575119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palermo</name>
+    <description><![CDATA[<div dir="ltr">Estación Palermo de la linea D</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-58.426601,-34.578156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Italia</name>
+    <description><![CDATA[<div dir="ltr">Estación Plaza Italia de la linea D</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-58.421108,-34.581249,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scalabrini Ortiz</name>
+    <description><![CDATA[<div dir="ltr">Estación Scalabrini Ortiz de la linea D</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-58.416000,-34.585152,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bulnes</name>
+    <description><![CDATA[<div dir="ltr">Estación Bulnes de la linea D</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-58.411495,-34.588085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agüero</name>
+    <description><![CDATA[<div dir="ltr">Estación Agüero de la linea D</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-58.407139,-34.591656,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pueyrredón</name>
+    <description><![CDATA[<div dir="ltr">Estación Pueyrredón de la linea D.</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-58.402374,-34.594425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Facultad de Medicina</name>
+    <description><![CDATA[<div dir="ltr">Estación Facultad de Medicina de la linea D.</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>-58.397224,-34.599728,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Callao</name>
+    <description><![CDATA[<div dir="ltr">Estación Callao de la linea D</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-58.392979,-34.599602,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tribunales</name>
+    <description><![CDATA[<div dir="ltr">Estación Tribunales de la linea D.</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-58.385208,-34.602764,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>9 de Julio</name>
+    <description><![CDATA[<div dir="ltr">Estación 9 de Julio de la linea D. Combinación con lineas B y C.</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-58.381241,-34.603859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[<div dir="ltr">Terminal Catedral de la linea D. Combinación con lineas A y E.</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-58.374996,-34.607304,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linea E</name>
+    <description><![CDATA[<div dir="ltr">Linea E</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.373451,-34.608982,0.000000
+        -58.374458,-34.609970,0.000000
+        -58.375488,-34.610889,0.000000
+        -58.377529,-34.612850,0.000000
+        -58.381584,-34.617634,0.000000
+        -58.385853,-34.622330,0.000000
+        -58.387161,-34.622475,0.000000
+        -58.388493,-34.622524,0.000000
+        -58.391563,-34.622753,0.000000
+        -58.395870,-34.622978,0.000000
+        -58.397892,-34.623161,0.000000
+        -58.398663,-34.623337,0.000000
+        -58.399437,-34.623425,0.000000
+        -58.400444,-34.623550,0.000000
+        -58.402184,-34.623760,0.000000
+        -58.403900,-34.623989,0.000000
+        -58.405640,-34.624168,0.000000
+        -58.406967,-34.624397,0.000000
+        -58.408020,-34.624504,0.000000
+        -58.410530,-34.624802,0.000000
+        -58.413059,-34.625080,0.000000
+        -58.416107,-34.625404,0.000000
+        -58.417953,-34.625706,0.000000
+        -58.419048,-34.625828,0.000000
+        -58.420143,-34.625984,0.000000
+        -58.421261,-34.626183,0.000000
+        -58.422783,-34.626373,0.000000
+        -58.424114,-34.626621,0.000000
+        -58.426796,-34.626976,0.000000
+        -58.428188,-34.627220,0.000000
+        -58.429607,-34.627434,0.000000
+        -58.430935,-34.627575,0.000000
+        -58.432095,-34.627750,0.000000
+        -58.432697,-34.627823,0.000000
+        -58.433876,-34.627983,0.000000
+        -58.442181,-34.631001,0.000000
+        -58.445354,-34.633350,0.000000
+        -58.448425,-34.635536,0.000000
+        -58.450420,-34.636810,0.000000
+        -58.457825,-34.640163,0.000000
+        -58.459904,-34.641663,0.000000
+        -58.460590,-34.642178,0.000000
+        -58.461170,-34.642548,0.000000
+        -58.461834,-34.643326,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bolívar</name>
+    <description><![CDATA[<div dir="ltr">Terminal Bolívar de la linea E. Combinación con las lineas A y D.</div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-58.373386,-34.609070,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Belgrano</name>
+    <description><![CDATA[<div dir="ltr">Estación Belgrano de la linea E.</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-58.377571,-34.612865,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Independencia</name>
+    <description><![CDATA[<div dir="ltr">Estación Independencia de la linea E.</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-58.381542,-34.617687,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San José</name>
+    <description><![CDATA[<div dir="ltr">Estación San José de la linea E.</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-58.385899,-34.622402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Entre Ríos</name>
+    <description><![CDATA[<div dir="ltr">Estación Entre Ríos de la linea E.</div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-58.391541,-34.622753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pichincha</name>
+    <description><![CDATA[<div dir="ltr">Estación Pichincha de la linea E.</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-58.397850,-34.623234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jujuy</name>
+    <description><![CDATA[<div dir="ltr">Estación Jujuy de la linea E. Combinación con la linea H.</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-58.402248,-34.623798,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>General Urquiza</name>
+    <description><![CDATA[<div dir="ltr">Estación General Urquiza de la linea E.</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-58.408920,-34.624611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Boedo</name>
+    <description><![CDATA[<div dir="ltr">Estación Boedo de la linea E.</div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-58.416088,-34.625439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenida La Plata</name>
+    <description><![CDATA[<div dir="ltr">Estación Avenida La Plata de la linea E.</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-58.426773,-34.627029,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>José María Moreno</name>
+    <description><![CDATA[<div dir="ltr">Estación José María Moreno de la linea E.</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-58.433876,-34.628052,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emilio Mitre</name>
+    <description><![CDATA[<div dir="ltr">Estación Emilio Mitre de la linea E.</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-58.442139,-34.631073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Medalla Milagrosa</name>
+    <description><![CDATA[<div dir="ltr">Estación Medalla Milagrosa de la linea E.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-58.450439,-34.636879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Varela</name>
+    <description><![CDATA[<div dir="ltr">Estación Varela de la linea E.</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-58.457867,-34.640163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza de los Virreyes</name>
+    <description><![CDATA[<div dir="ltr">Terminal Plaza de los Virreyes de la linea E.</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-58.461769,-34.643360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linea H</name>
+    <description><![CDATA[<div dir="ltr">Linea H</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -58.405979,-34.610039,0.000000
+        -58.405380,-34.604530,0.000000
+        -58.405869,-34.611130,0.000000
+        -58.405418,-34.613022,0.000000
+        -58.404881,-34.614868,0.000000
+        -58.403061,-34.620220,0.000000
+        -58.401749,-34.625591,0.000000
+        -58.401279,-34.627800,0.000000
+        -58.400890,-34.629990,0.000000
+        -58.400349,-34.632069,0.000000
+        -58.399849,-34.633270,0.000000
+        -58.399021,-34.636028,0.000000
+        -58.405724,-34.637093,0.000000
+        -58.411732,-34.639210,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Once</name>
+    <description><![CDATA[<div dir="ltr">Estación Once de la linea H. Combinación con la linea A.</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-58.405895,-34.610165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Venezuela</name>
+    <description><![CDATA[<div dir="ltr">Estación Venezuela de la linea H.</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-58.404610,-34.615761,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Humberto I</name>
+    <description><![CDATA[<div dir="ltr">Estación Humberto I de la linea H. Combinación con la linea E.</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-58.402504,-34.622456,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Inclan</name>
+    <description><![CDATA[<div dir="ltr">Estación Inclan de la linea H.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-58.400894,-34.629978,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caseros</name>
+    <description><![CDATA[<div dir="ltr">Estación Caseros de la linea H.</div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-58.398922,-34.635925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San José de Flores</name>
+    <description><![CDATA[<div dir="ltr">Estación San José de Flores de la linea A.</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-58.464153,-34.629272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Pedrito</name>
+    <description><![CDATA[<div dir="ltr">Terminal San Pedrito de la linea A.</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-58.469711,-34.630772,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Echeverría</name>
+    <description><![CDATA[<div dir="ltr">Estación Echeverría de la linea B</div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-58.480160,-34.578403,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Juan Manuel de Rosas</name>
+    <description><![CDATA[<div dir="ltr">Terminal Juan Manuel de Rosas de la linea B</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-58.486813,-34.573990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Retiro</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Retiro de la linea E. Futuras combinaciones con las lineas C y H.</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-58.375019,-34.592220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catalinas</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Catalinas de la linea E.</div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-58.371521,-34.597149,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Correo Central</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Correo Central de la linea E. Futura combinación con la linea B.</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-58.369888,-34.602993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Retiro</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Retiro de la linea H. Futuras combinaciones con las lineas C y E.</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-58.375706,-34.592377,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>9 de Julio</name>
+    <description><![CDATA[<div dir="ltr">Futura estación 9 de Julio de la linea H.</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-58.381218,-34.588634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Francia</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Plaza Francia de la linea H.</div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-58.390553,-34.584198,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Las Heras</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Las Heras de la linea H.</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-58.397312,-34.587414,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Fe</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Santa Fe de la linea H. Futura combinación con la linea D.</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-58.402184,-34.594692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Córdoba</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Córdoba de la linea H.</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-58.403687,-34.598507,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corrientes</name>
+    <description><![CDATA[<div dir="ltr">Terminal Corrientes de la linea H. Combinación con la linea B.</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-58.405315,-34.604813,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hospitales</name>
+    <description><![CDATA[<div dir="ltr">Terminal Hospitales de la linea H.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-58.411709,-34.639477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parque Patricios</name>
+    <description><![CDATA[<div dir="ltr">Estación Parque Patricios de la linea H.</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-58.405807,-34.637093,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sáenz</name>
+    <description><![CDATA[<div dir="ltr">Futura estación Sáenz de la linea H.</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-58.416283,-34.648407,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nueva Pompeya</name>
+    <description><![CDATA[<div dir="ltr">Probable futura estación Nueva Pompeya de la linea H.</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-58.416389,-34.652363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

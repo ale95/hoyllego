@@ -1,0 +1,74 @@
+#trenesPrinc
+{
+	box-sizing:border-box;
+	overflow: auto;
+}
+.treneslinea
+{
+
+	display: block;
+	color: #fff;
+	vertical-align: top;
+	text-align: left;
+	width: 100%;
+	border-top: 1px solid rgba(0,0,0,0.3);
+	box-sizing:border-box;
+	
+}
+.nombrelinea
+{
+background-color: rgba(0,0,0,0.4);
+padding: 4px;
+min-width: 100px;
+overflow: hidden;
+text-align: center;
+font-size: 15px;
+float: right;
+	white-space: nowrap;
+}
+/*.nombrelinea.verde
+{
+	border-bottom: solid 3px Limegreen;
+}
+.nombrelinea.amarillo
+{
+	border-bottom: solid 3px Gold;
+}
+.nombrelinea.rojo
+{
+	border-bottom: solid 3px Red;
+}*/
+.ramales
+{
+	font-size: 12px;
+	box-sizing:border-box;
+	width: 100%;
+	text-align: left;
+	/*white-space: nowrap;*/
+	padding: 0 5px 3px 5px;
+
+}
+.nombreramales
+{
+	text-align: center;
+	white-space: nowrap;
+	background: rgba(20,20,20,0.6);
+	display: inline-block;
+	margin: 6px 3px 3px 3px;
+	padding: 3px 7px;
+	min-width: 150px;
+	overflow: hidden;
+	box-sizing:border-box;
+}
+.nombreramales.verde
+{
+	border-left: solid 4px Limegreen;
+}
+.nombreramales.amarillo
+{
+	border-left: solid 4px Gold;
+}
+.nombreramales.rojo
+{
+	border-left: solid 4px Red;
+}

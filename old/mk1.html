@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hoy Llego</title>
+	<link rel="stylesheet" type="text/css" href="princ.css">
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+<body>
+	<header>
+		<div id="logocont">
+			<div class="logo"><img src="imgs/logo.png"></div>
+			<div class="logo" onclick="volver()" title="Volver"><img src="imgs/flecha.png"></div>
+		</div>
+		<div id="marca">Hoy Llego</div>
+		<div id="pregunta" class="show"><span id="autorespuesta">Sin problema</span></div>
+		<div id="hora" onclick="horaswitch()">--:--</div>
+	</header>
+
+	<div id="actualizando" class=" ">
+		<div>Actualizando</div>
+		<img src="imgs/update.gif">
+	</div>
+
+	<div id="cargando" class="">
+		<div>Cargando</div>
+		<img src="imgs/update.gif">
+	</div>
+
+	<div id="tw-mini" class="twitter">[twitter]</div>
+
+	<div id="container">
+		<div id="pag1cont">
+			<div class='page'>
+				<div class="serv" onclick="active(-1)" style='background-color:#eef;'>
+					<div class="imgitem"><img src="imgs/tiempo.jpg"></div>
+					<div class="titulo">Tiempo</div>
+					<div class="servcont" id="temp-cont">
+						<div id="temp-t">23°</div>
+						<div id="temp-estado">Soleado</div>
+						<div id="temp-maxmin-cont">
+							<div class="temp-m">Min: 15°</div>
+							<div class="temp-m">Máx: 25°</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="serv"  onclick="active(1)" style='background-color:#ffe;'>
+					<div class="imgitem"><img src="imgs/subtes.jpg"></div>
+					<div class="titulo">Subtes</div>
+					<div class="servcont">
+						<div class="subserv verde" style="border-top:5px solid #0ff;">
+							Linea A
+						</div>
+						<div class="subserv verde"  style="border-top:5px solid #f00;">
+							Linea B
+						</div>
+						<div class="subserv rojo"  style="border-top:5px solid #00f;">
+							Linea C
+						</div>
+						<div class="subserv verde"  style="border-top:5px solid #0f0;">
+							Linea D
+						</div>
+						<div class="subserv verde"  style="border-top:5px solid #f0f;">
+							Linea E
+						</div>
+						<div class="subserv verde"  style="border-top:5px solid #ff0;">
+							Linea H
+						</div>
+					</div>
+				</div>
+
+				<div class="serv" onclick="active(2)" style='background-color:#efe;'>
+					<div class="imgitem"><img src="imgs/trenes.jpg"></div>
+					<div class="titulo">Trenes</div>
+				</div>
+
+				<div class="serv twitter">
+					<a class="twitter-timeline" id='twitterfooter' href="https://twitter.com/search?q=%23hoyllego" data-widget-id="462688047629217792">#hoyllego</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.temp-estado(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</div>
+		</div><!-- 
+			margin 0 para el inline-block
+		 -->
+	</div>
+</body>
+	<script type="text/javascript">
+		function move () {
+			document.getElementById("container").className = 'move';
+			document.getElementById("cargando").className -= 'show';
+			document.getElementById("logocont").className = 'atras';
+		}
+		function volver() {
+			document.getElementById("container").className -= 'move';
+			document.getElementById("logocont").className -= 'atras';
+		}
+		function active (numPos) {
+			document.getElementById("cargando").className = 'show';
+			//leer json con la url
+			//obtener pagina con HTTPrequest
+			setTimeout("move()", 2000);
+
+		}
+		function hora (){
+			var reloj = new Date();
+			var relojarr = [];
+			relojarr.push(reloj.getHours());
+			relojarr.push(reloj.getMinutes());
+			relojarr.push(reloj.getDay());
+			relojarr.push(reloj.getDate());
+			relojarr.push(reloj.getMonth());
+			relojarr.push(reloj.getFullYear());
+			if (relojarr[1] < 10){
+				relojarr[1] = '0' + relojarr[1];
+			}
+			if (relojarr[4] == 0){
+				relojarr[4] = 'Enero';
+			} else if (relojarr[4] == 1){
+				relojarr[4] = 'Febrero';
+			} else if (relojarr[4] == 2){
+				relojarr[4] = 'Marzo'; 
+			} else if (relojarr[4] == 3){
+				relojarr[4] = 'Abril';
+			} else if (relojarr[4] == 4){
+				relojarr[4] = 'Mayo';
+			} else if (relojarr[4] == 5){
+				relojarr[4] = 'Junio'; 
+			} else if (relojarr[4] == 6){
+				relojarr[4] = 'Julio';
+			} else if (relojarr[4] == 7){
+				relojarr[4] = 'Agosto';
+			} else if (relojarr[4] == 8){
+				relojarr[4] = 'Septiembre'; 
+			} else if (relojarr[4] == 9){
+				relojarr[4] = 'Octubre';
+			} else if (relojarr[4] == 10){
+				relojarr[4] = 'Noviembre';
+			} else if (relojarr[4] == 11){
+				relojarr[4] = 'Diciembre'; 
+			}
+
+			if (relojarr[2] == 0){
+				relojarr[2] = 'Domingo';
+			} else if (relojarr[2] == 1){
+				relojarr[2] = 'Lunes';
+			} else if (relojarr[2] == 2){
+				relojarr[2] = 'Martes';
+			} else if (relojarr[2] == 3){
+				relojarr[2] = 'Miercoles';
+			} else if (relojarr[2] == 4){
+				relojarr[2] = 'Jueves';
+			} else if (relojarr[2] == 5){
+				relojarr[2] = 'Viernes';
+			} else if (relojarr[2] == 6){
+				relojarr[2] = 'Sábado';
+			}
+			return relojarr;
+		}
+		var sw = 0;
+		function horaswitch(){
+			if (sw == 1){
+				sw = 0;
+			} else {
+				sw = 1;
+			}
+			updatetime();
+		}
+		updatetime();
+		function updatetime (ss){
+			var relojarr = new hora();
+			if (sw == 1){
+				document.getElementById("hora").innerText = relojarr[0] + ':' + relojarr[1] + " | " + relojarr[2] + ", " + relojarr[3] + " de " + relojarr[4] + " de " + relojarr[5];
+			} else if (sw == 0) {
+				document.getElementById("hora").innerText = relojarr[0] + ':' + relojarr[1];
+			}
+			
+			setTimeout("updatetime(3)", 1000);
+		}
+
+
+	</script>
+</html>
